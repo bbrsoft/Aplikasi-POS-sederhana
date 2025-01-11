@@ -44,14 +44,14 @@ This is a Spring Boot Web POS System.
 ###  
 ### Clone this repository ✅
 ```md
-https://github.com/NimeshPiyumantha/SpringBoot-POS.git
+https://github.com/bbrsoft/APlikasi-POS-sederhana.git
 ```
 ##  Connect with me
 #### If you have any bugs or issues , If you want to explain my code please contact me on :
 <div align="center">
  <br><b>MAIL ME</b>&nbsp;
   <a href="mailto:nimeshpiyumantha11@gmail.com">
-      <img width="20px" src="https://github.com/NimeshPiyumantha/red-alpha/blob/main/gmail.svg" />
+      <img width="20px" src="https://github.com/bbrsoft/red-alpha/blob/main/gmail.svg" />
   </a></p>
 
  </div>
@@ -68,14 +68,5 @@ https://github.com/NimeshPiyumantha/SpringBoot-POS.git
 ##
 <div align="center">
 
-![repo license](https://img.shields.io/github/license/NimeshPiyumantha/SpringBoot-POS?&labelColor=black&color=3867d6&style=for-the-badge)
-![repo size](https://img.shields.io/github/repo-size/NimeshPiyumantha/SpringBoot-POS?label=Repo%20Size&style=for-the-badge&labelColor=black&color=20bf6b)
-![GitHub forks](https://img.shields.io/github/forks/NimeshPiyumantha/SpringBoot-POS?&labelColor=black&color=0fb9b1&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/NimeshPiyumantha/SpringBoot-POS?&labelColor=black&color=f7b731&style=for-the-badge)
-![GitHub LastCommit](https://img.shields.io/github/last-commit/NimeshPiyumantha/SpringBoot-POS?logo=github&labelColor=black&color=d1d8e0&style=for-the-badge)
-</div>
-
-<div align="center">
-
-#### @2023 [Nimesh Piyumantha](https://github.com/NimeshPiyumantha/), Inc.All rights reserved
+#### @2023 [Nimesh Piyumantha](https://github.com/Bbrsoft/), Inc.All rights reserved
 </div>
