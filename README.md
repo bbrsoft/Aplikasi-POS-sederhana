@@ -60,5 +60,5 @@ https://github.com/bbrsoft/APlikasi-POS-sederhana.git
 ##
 <div align="center">
 
-#### @2023 [Nimesh Piyumantha](https://github.com/Bbrsoft/), Inc.All rights reserved
+#### @2023 [Bbr Soft](https://github.com/Bbrsoft/), Inc.All rights reserved
 </div>
