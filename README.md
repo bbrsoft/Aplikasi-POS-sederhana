@@ -21,7 +21,6 @@ This is a Spring Boot Web POS System.
 * 🔗 <a href="https://www.gloomaps.com/bsC9rMgdrG" target="_blank">POS System Site Map</a>
 * 🔗 <a href="https://wireframe.cc/US4npz" target="_blank">POS System Wire Frame</a>
 * 🔗 <a href="https://www.figma.com/file/97Vfr3yzTFQ57NZQbhxICO/POS-System-SPA" target="_blank">POS System Mockup</a>
-* 🔗 <a href="[https://nimeshpiyumantha.github.io/SpringBoot-POS/POS_FrontEnd/](https://github.com/bbrsoft/Aplikasi-POS-sederhana)" target="_blank">GitHub Page</a>
 
 ##
 ![alt text](https://github.com/NimeshPiyumantha/Web-POS/blob/master/assets/images/ui/Screenshot%20(213).png)
