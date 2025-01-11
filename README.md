@@ -56,6 +56,7 @@ https://github.com/bbrsoft/APlikasi-POS-sederhana.git
 
  </div>
 
+## Download : https://drive.google.com/file/d/1iO5Ppb5juINf2MB01mHz9FrEAVkIQWp2/view?usp=sharing
 
 ##
 <div align="center">
